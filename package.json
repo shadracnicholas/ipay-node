@@ -1,0 +1,18 @@
+{
+  "name": "ipay-node",
+  "version": "1.0.0",
+  "description": "IPay Africa NodeJs SDK for payments ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ipay",
+    "Mpesa",
+    "Card",
+    "Payments",
+    "Kenya"
+  ],
+  "author": "Shadrack Nicholas",
+  "license": "ISC"
+}
